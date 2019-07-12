@@ -1,0 +1,227 @@
+.wl-home-index.inline-form .wl-home-contact-form {
+    margin: 0;
+}
+.wl-home-index section {
+    width: 100%;
+}
+.wl-home-contact-form {
+    background: linear-gradient(135deg, rgb(232, 113, 46) 0%, rgb(239, 138, 20) 100%);
+    margin: 50px 0;
+}
+.wl-home-index .wl-home-contact-form .wl-home-contact-container {
+     background-image: url(../images/pattern_4per_opacity.png);
+ }
+.wl-home-contact-form .wl-home-contact-container {
+    box-sizing: border-box;
+    padding: 20px 0 116px;
+}
+.wl-home-contact-form .contact {
+    background-color: #fff;
+    box-sizing: border-box;
+    font-weight: 600;
+    height: 52px;
+    margin-top: -2px;
+    padding: 12px 0 0;
+    text-align: center;
+}
+.wl-home-contact-form .wl-home-contact-container h4.title {
+    color: #fff;
+    font-family: "Arvo",serif;
+    font-size: 32px;
+    margin: 20px 0;
+    padding-top: 110px;
+    text-align: center;
+}
+.wl-home-contact-form .wl-home-contact-container h4.title + .description {
+    color: #fff;
+    font-family: "Avenir LT Std",sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.wl-schedule-demo-form .rs-home-contact-field-container {
+    max-width: 480px;
+    width: 100%;
+}
+.rs-home-contact-field-container {
+    display: inline-block;
+    padding-top: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 340px;
+}
+.wl-schedule-demo-form .rs-home-contact-field-container .a-validate-message-container {
+    margin: 2px 0;
+    min-height: 10px;
+}
+.wl-schedule-demo-form .rs-home-contact-field-container input.type-text, .wl-schedule-demo-form .rs-home-contact-field-container select, .wl-schedule-demo-form .rs-home-contact-field-container .chosen-container-single .chosen-single {
+    -webkit-transition: .2s ease-in-out;
+    background-color: #ffffff;
+    border-radius: 28px;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Avenir LT Std',sans-serif;
+    font-size: 18px;
+    height: 56px;
+    line-height: 44px;
+    margin: 0;
+    outline: none;
+    padding: 5px 40px 5px 25px;
+    transition: .2s ease-in-out;
+}
+.rs-home-contact-form {
+    overflow: hidden;
+    text-align: center;
+}
+.wl-schedule-demo-form .rs-home-contact-field-container .contact-button.home-request-demo:hover {
+    background: #dadada;
+}
+.wl-schedule-demo-form .rs-home-contact-field-container .contact-button.home-request-demo {
+    -webkit-transition: .2s ease-in-out;
+    background: #fff;
+    cursor: pointer;
+    font-weight: 900;
+    display: inline-block;
+    font-family: "Avenir LT Std",sans-serif;
+    font-size: 19px;
+    line-height: 3;
+    margin: 0;
+    outline: none;
+    overflow: hidden;
+    padding: initial;
+    position: relative;
+    text-transform: uppercase;
+    transition: .2s ease-in-out;
+    width: 100%;
+    color: #4e5658;
+}
+.rs-home-contact-field-container .contact-button {
+    background: url(/e/D.png) 75px center no-repeat;
+    background-color: #fff;
+    border: none;
+    border-radius: 50px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 14pt;
+    margin-bottom: 10px;
+    padding: 20px 0 20px 40px;
+    width: 280px;
+}
+.wl-home-contact-form .contact {
+    background-color: #4e5658;
+    box-sizing: border-box;
+    font-weight: 600;
+    height: 52px;
+    margin-top: -2px;
+    padding: 12px 0 0;
+    text-align: center;
+}
+.wl-home-contact-form .contact .wl-icon-telephone {
+    background-color: #fff;
+    border-radius: 6px;
+    height: 28px;
+    margin-right: 6px;
+    width: 28px;
+}
+.wl-home-contact-form .contact span, .wl-home-contact-form .contact a {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 14px;
+    vertical-align: middle;
+}
+.wl-home-contact-form .contact {
+    background-color: #ec7f1f;
+    box-sizing: border-box;
+    font-weight: 600;
+    height: 52px;
+    margin-top: -2px;
+    padding: 12px 0 0;
+    text-align: center;
+}
+
+.wl-home-contact-form .contact span, .wl-home-contact-form .contact a {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 14px;
+    vertical-align: middle;
+}
+.wl-home-contact-form .contact span, .wl-home-contact-form .contact a {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 14px;
+    vertical-align: middle;
+}
+a:visited {
+    color: #3397c9;
+    outline: 0 none;
+}
+a, a:link, a:active {
+    color: #3397c9;
+    outline: 0 none;
+    text-decoration: none;
+}
+.wl-schedule-demo-form .rs-home-contact-field-container > span {
+    display: block;
+    float: left;
+    width: 48%;
+}
+.wl-schedule-demo-form .rs-home-contact-field-container > span:nth-child(2) {
+    float: right;
+}
+.wl-home-contact-form .contact .wl-icon-telephone:before {
+    color: #4e5658;
+    font-size: 20px;
+    line-height: 30px;
+}
+.wl-icon-telephone:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f095";
+}
+
+.rs-home-contact-field-container .selection .select2-selection.select2-selection--single {
+    margin-bottom: 12px;
+    background-color: #ffffff;
+    border-radius: 28px;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Avenir LT Std', sans-serif;
+    height: 56px;
+    padding: 5px 40px 5px 25px;
+    transition: .2s ease-in-out;
+}
+.rs-home-contact-field-container .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #4e5658;
+    font-family: 'Avenir LT Std',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    height: 56px;
+    line-height: 44px;
+    text-align: left;
+    padding-left: 0;
+}
+.rs-home-contact-field-container .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    border-width: 7px 6px 0 6px !important;
+}
+.rs-home-contact-field-container .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 24px;
+    top: 13px;
+    right: 20px;
+}
+.select2-container .select2-dropdown {
+    border: 1px solid #fff;
+    top: -12px;
+}
+.select2-container .select2-dropdown.select2-dropdown--above {
+    top: 1px;
+}
+span.select2-selection.select2-selection--single {
+    outline: none;
+}
+/*.rs-home-contact-field-container .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b  {*/
+/*    border-width: 7px 6px 0 6px;*/
+/*}*/
+
+
+/*.rs-home-contact-field-container .select2-container--open .select2-container--default .select2-selection--single .select2-selection__arrow:before {*/
+
+/*}*/

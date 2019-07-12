@@ -1,0 +1,3 @@
+<div class="footer-2">
+    <div>BookWell™ powered by WellnessLiving. © 2019 WellnessLiving Systems Inc. All Rights Reserved.</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><a target="_blank" href='https://www.wellnessliving.com/home/text/terms-of-use-client.html'>Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.wellnessliving.com/home/text/wellnessliving-privacy-policy.html">Privacy</a></div>
+</div>
